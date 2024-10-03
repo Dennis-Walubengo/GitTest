@@ -1,0 +1,14 @@
+h1{
+    font-size: 37px;
+    color: blue;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(116, 164, 210);
+    padding: 5%;
+    color: aliceblue;
+}
